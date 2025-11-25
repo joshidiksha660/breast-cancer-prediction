@@ -64,3 +64,10 @@ The confusion matrix shows good separation between benign and malignant classes.
 ### Install the required packages:
 ```bash
 pip install -r requirements.txt
+
+✨ Author
+Diksha Joshi
+Email: joshidiksha660@gmail.com
+Github https://github.com/joshidiksha660
+Linkedin https://in.linkedin.com/in/diksha-joshi-58b8ba304
+
